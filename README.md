@@ -53,14 +53,18 @@ An AI-powered Career Guidance and Psychometric Assessment Platform built using F
 ├── app.py
 ├── database.py
 ├── ai_summary.py
+├── career.csv
 ├── requirements.txt
 ├── wsgi.py
+├── utils/
 ├── static/
 │   ├── css/
 │   └── js/
 ├── templates/
 ├── instance/
 │   └── career_guide.db
+├── wsgi.py
+├── README.md
 └── Dockerfile
 ```
 
