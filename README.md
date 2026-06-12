@@ -2,6 +2,9 @@
 
 An AI-powered Career Guidance and Psychometric Assessment Platform built using Flask, Machine Learning, and NLP techniques to help students and professionals discover suitable career paths based on interests, personality traits, aptitudes, and work preferences.
 
+<img width="1877" height="917" alt="image" src="https://github.com/user-attachments/assets/1aae430a-e7b2-4831-b64e-c4d4c0c5fa58" />
+
+
 ---
 
 ## 🌟 Features
@@ -179,7 +182,8 @@ The platform is optimized for:
 
 ## 📸 Screenshots
 
-*Add project screenshots here*
+<img width="1877" height="917" alt="image" src="https://github.com/user-attachments/assets/ed08920f-8f24-4c97-8d15-d5bfd92e53ef" />
+
 
 ---
 
