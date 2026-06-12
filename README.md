@@ -212,10 +212,11 @@ This project is developed for educational and learning purposes.
 ## 👨‍💻 Developer
 
 **Chowdri Furkhan**
+
 AI & Machine Learning Enthusiast
 Bangalore, India
 
-* 💼 Aspiring AI/ML Engineer
+* 💼 AI/ML Engineer
 * 📊 Data Science & Generative AI Projects
 * 🚀 Passionate about building intelligent applications
 
