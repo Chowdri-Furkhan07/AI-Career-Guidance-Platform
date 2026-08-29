@@ -138,6 +138,8 @@ Evaluates:
 * Work Styles
 * Core Values
 
+---
+
 ### 🤖 AI Career Recommendation Engine
 
 Provides career suggestions using:
